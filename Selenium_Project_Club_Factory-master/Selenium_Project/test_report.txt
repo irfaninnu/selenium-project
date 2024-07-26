@@ -1,0 +1,20 @@
+Test report generated successfully.
+PASSED: Opened website
+PASSED: Clicked login link
+PASSED: Entered login credentials
+PASSED: Clicked login button
+PASSED: Searched for 'watch'
+PASSED: Selected product
+PASSED: Increased quantity
+PASSED: Added to cart
+PASSED: Proceeded to cart
+PASSED: Clicked checkout
+PASSED: Clicked checkout (step 2)
+PASSED: Clicked note button
+PASSED: Added note and saved
+PASSED: Clicked checkout (step 3)
+PASSED: Entered shipping information
+PASSED: Entered discount code
+PASSED: Scrolled to footer
+PASSED: Clicked final checkout button
+PASSED: Navigated to home
